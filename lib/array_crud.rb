@@ -53,5 +53,8 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
+  
+  clizer_family = ["kyle", "kate", "chase", "judson"]
+  clizer_family[2] = "madison"
 
 end
