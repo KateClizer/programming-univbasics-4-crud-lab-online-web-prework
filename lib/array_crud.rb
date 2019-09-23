@@ -38,9 +38,17 @@ end
 
 def retrieve_first_element_from_array(array)
   
+  clizer_family = ["am", "Katelynne", "Chase", "arrays!"]
+  
+  clizer_family[0]
+  
 end
 
 def retrieve_last_element_from_array(array)
+  
+  clizer_family = ["am", "Katelynne", "Chase", "arrays!"]
+  
+  clizer_family[3]
   
 end
 
