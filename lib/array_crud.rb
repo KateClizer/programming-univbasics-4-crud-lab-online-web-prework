@@ -25,7 +25,7 @@ end
 
 def remove_element_from_start_of_array(array)
   clizer_family = ["wow", "Katelynne", "Chase", "arrays!"]
-clizer_family.shift 
+wow = clizer_family.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
