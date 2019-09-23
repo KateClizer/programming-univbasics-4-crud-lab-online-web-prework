@@ -55,6 +55,6 @@ end
 def update_element_from_index(array, index_number, element)
   
   clizer_family = ["kyle", "kate", "chase", "judson"]
-  clizer_family[2] = "madison"
+  clizer_family[2] = "totally"
 
 end
