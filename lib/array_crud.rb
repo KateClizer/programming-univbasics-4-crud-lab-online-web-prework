@@ -32,7 +32,7 @@ def retrieve_element_from_index(array, index_number)
   
   clizer_family = ["am", "Katelynne", "Chase", "arrays!"]
   
-  clizer_family [0]
+  clizer_family[0]
   
 end
 
